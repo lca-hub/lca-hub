@@ -49,7 +49,7 @@
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,html,css,bootstrap,nodejs,vite" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nodejs,vite" />
 </p>
 
 * ReactJS
